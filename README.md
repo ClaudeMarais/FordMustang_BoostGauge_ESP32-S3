@@ -61,92 +61,92 @@ If you are unfamiliar with Arduino, it’s pretty simple and there is a multitud
 
 --------------------------------
 
-![alt text](Image1-1.JPG)
+![Image1](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image1.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image2.gif)
+![Image2](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image2.gif?raw=true)
 
 --------------------------------
 
-![alt text](Image3.JPG)
+![Image3](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image3.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image4.JPG)
+![Image4](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image4.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image5.JPG)
+![Image5](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image5.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image6.JPG)
+![Image6](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image6.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image7.JPG)
+![Image7](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image7.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image8.JPG)
+![Image8](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image8.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image9.JPG)
+![Image9](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image9.JPG?raw=true)
 
 --------------------------------
 
 You will need about 1.5m of wiring to reach from the car's OBD2 connector up to the windshield of the car. Only four OBD2 wires are required to reach the device, two for power and two for the high speed CAN bus communication. I used three different cables for this. First, an OBD2 splitter so that another device, e.g. a tuner device, can be attached while this device is used. Then I soldered a long USB data cable to the OBD2 connector cable. Make sure that you specifically buy a data cable and not a charging cable, since a charging cable won’t have extra data wires.
 
-![alt text](Image10.JPG)
+![Image10](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image10.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image11.JPG)
+![Image11](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image11.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image12.JPG)
+![Image12](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image12.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image13.JPG)
+![Image13](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image13.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image14.JPG)
+![Image14](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image14.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image15.JPG)
+![Image15](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image15.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image16.JPG)
+![Image16](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image16.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image17.JPG)
+![Image17](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image17.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image18.JPG)
+![Image18](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image18.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image19.JPG)
+![Image19](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image19.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image20.JPG)
+![Image20](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image20.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image21.JPG)
+![Image21](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image21.JPG?raw=true)
 
 --------------------------------
 
-![alt text](Image22.JPG)
+![Image22](https://github.com/ClaudeMarais/FordMustang_BoostGauge_ESP32-S3/blob/main/Images/Image22.JPG?raw=true)
 
 --------------------------------
